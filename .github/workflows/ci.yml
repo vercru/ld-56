@@ -40,6 +40,6 @@ jobs:
           path: build/
       - uses: jdno/setup-butler@v1.4.0
       - run: ls
-      - run: butler push dist shizor/ld-56:html5
+      - run: butler push build shizor/ld-56:html5
         env:
           BUTLER_API_KEY: ${{ secrets.ITCHIO_API_KEY }}
