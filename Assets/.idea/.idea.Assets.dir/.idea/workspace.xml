@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9ce753-d610-4399-879d-70ade5b6b085" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPRenderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPRenderer.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/packages-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="bf9ce753-d610-4399-879d-70ade5b6b085" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728215638362</updated>
-      <workItem from="1728215641198" duration="9883000" />
+      <workItem from="1728215641198" duration="10158000" />
     </task>
     <servers />
   </component>
